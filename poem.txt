@@ -1,2 +1,7 @@
 「測試」
 重新儲存為txt檔，測試中文顯示
+測試顯示中文
+
+aaa
+bbb
+ccc
